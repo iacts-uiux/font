@@ -32,6 +32,7 @@
 + HS산토끼체2.0
 + KBIZ한마음명조체
 + MBC 1961
++ NEXONLv2Gothic
 + Outfit
 + Poppins
 + 가나초콜릿체
